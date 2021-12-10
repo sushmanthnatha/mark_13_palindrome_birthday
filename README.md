@@ -1,1 +1,3 @@
-# mark_13_palindrome_birthday
+# Palindrome Birthday
+
+A small application to check if your birthday is palindrome or not
